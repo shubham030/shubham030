@@ -1,0 +1,17 @@
+<svg width="100%" height="150" viewBox="0 0 1440 150" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="gradient" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#1a1b27;stop-opacity:1" />
+      <stop offset="50%" style="stop-color:#24283b;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#1a1b27;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  <rect width="100%" height="100%" fill="url(#gradient)"/>
+  <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle" fill="#7aa2f7" font-family="monospace" font-size="42" font-weight="bold">
+    Hey, I'm Shubham 👋
+  </text>
+  <text x="50%" y="75%" dominant-baseline="middle" text-anchor="middle" fill="#9ece6a" font-family="monospace" font-size="18">
+    mass mass mass • mass mass mass • mass mass mass
+  </text>
+  <path fill="#7aa2f7" fill-opacity="0.3" d="M0,128L48,122.7C96,117,192,107,288,101.3C384,96,480,96,576,106.7C672,117,768,139,864,138.7C960,139,1056,117,1152,112C1248,107,1344,117,1392,122.7L1440,128L1440,150L1392,150C1344,150,1248,150,1152,150C1056,150,960,150,864,150C768,150,672,150,576,150C480,150,384,150,288,150C192,150,96,150,48,150L0,150Z"/>
+</svg>
